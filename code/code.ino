@@ -2,9 +2,3 @@ void setup()
 {
   
 }
-
-
-void loop()
-{
-  
-}
